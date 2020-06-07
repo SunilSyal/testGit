@@ -1,2 +1,3 @@
-Some text in data file.
+Some text in .
 One more commit.
+A commit.
